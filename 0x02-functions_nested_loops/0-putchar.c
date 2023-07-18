@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "0-putchar.c"
 
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line.
